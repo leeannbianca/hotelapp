@@ -1,38 +1,255 @@
-.App {
+.image{
+  width: 800px;
+  margin-left: 480px;
+  
+}
+
+.imagebox{
+  background-color: #755645;
+  color: white;
+  height: 400px;
+}
+
+.App{
+  background-color: #F4EAE6;
+}
+
+.container{
+  background-color: #F4EAE6;
+}
+
+h1, h4, p{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.slogan{
+  width: 340px;
+  margin-top: -300px;
+  padding-left: 30px;
+  margin-left: 90px;
+}
+
+button{
+  border-radius: 40px;
+  background-color: #755645;
+  color: white;
+  border: none;
+}
+
+.btnAvailability{
+  width: 150px;
+}
+
+.inputdate{
+  width: 300px;
+}
+
+.table{
+  margin-top: 50px;
+  background-color: #D9D9D9;
+
+}
+
+Col{
+  background-color: #D9D9D9;
+
+}
+
+input{
+  border: none;
+}
+
+.secondpart{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.paragraph{
+  padding-top: 30px;
+}
+
+.AmenIties{
+  margin-top: 50px;
+  
+}
+
+.AmenHead{
+  margin-left: 550px;
+  margin-top: 100px;
+}
+
+.amenities{
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+ 
+}
+
+.amen{
+  width: 100%;
+  display: grid;
+  
+}
+
+.img{
+  margin-left: 90px;
+}
+
+.one1{
+  margin-left: 70px;
+}
+
+.one2{
+  margin-left: 50px;
+}
+
+.one3{
+  margin-left: 55px;
+}
+
+.one4{
+  margin-left: 30px;
+}
+
+.one5{
+  margin-left: 75px;
+}
+
+.one6{
+  margin-left: 60px;
+}
+
+.rooms{
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.gallery{
+  display: flex;
+  margin-top: 100px;
+}
+
+.galleryHead{
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.img{
+  width: 220px;
+  height: 190px;
+}
+
+.gallery2{
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+
+}
+
+.mealHead{
+  margin-top: 100px;
+  justify-content: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.food{
+  margin-top: 100px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.imgfood{
+
+  width: 250px;
+  height: 190px;
+  margin-left: 90px;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.food1{
+  margin-top: 10px;
+  margin-left: 180px;
 }
+
+.food2{
+  margin-top: 10px;
+  margin-left: 190px;
+}
+
+.food3{
+  margin-top: 10px;
+  margin-left: 190px;
+}
+
+.mainfooter{
+  margin-top: 200px;
+}
+
+.footer{
+  background-color: #755645;
+  color: #ffff;
+}
+
+.name{
+  margin-left: 100px;
+}
+
+.footIcons{
+  display: flex;
+  margin-left: 110px;
+}
+
+.footicon{
+  width: 20px;
+  height: 20px;
+}
+
+.listnav{
+  margin-left: 550px;
+  margin-top: -60px;
+
+}
+
+.info{
+  margin-left: 820px;
+  margin-top: -140px;
+}
+
+.address{
+  margin-left: 40px;
+}
+
+.street{
+  margin-left: 20px;
+  margin-top: -22px;
+}
+
+.num{
+  margin-left: 20px;
+  margin-top: -25px;
+}
+
+.mail{
+  margin-left: 20px;
+  margin-top: -23px;
+}
+
+
+
+
+
+
+
+
+
+
